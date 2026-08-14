@@ -74,4 +74,5 @@ erm yah cuz this pcb is almost full of components i dont really wanna put silkar
 so the next step is to make a proper BOM.csv and estimate the cost needed to make 5 of it.
 Then I Finished the Readme and lets upload to gadget-market-ship!
 (but i hope i can make 10 of it if i can :|)
-
+Day 3 14/8/2026 Z80BadgeV2 (lA8LdgRuLn9C)
+Total: 1hr 30mins
