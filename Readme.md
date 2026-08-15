@@ -8,13 +8,13 @@ submitted to Gadget@HackClub
 
 ### Images
 
-!\[Front](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Front.png)
+![Front](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Front.png)
 
-!\[Back](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Back.png)
+![Back](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Back.png)
 
-!\[Design](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Design.png)
+![Design](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Design.png)
 
-!\[Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route.png)
+![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route.png)
 
 ### What is this?
 
