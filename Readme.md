@@ -14,7 +14,9 @@ submitted to Gadget@HackClub
 
 ![Design](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Design.png)
 
-![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route.png)
+![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route_R.png)
+
+![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route_B.png)
 
 ### What is this?
 
