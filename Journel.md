@@ -7,7 +7,7 @@ https://hackatime.hackclub.com/my/projects/z80badgev2
 
 
 Day 1 Z80 Badge V2 10/8/2026
-
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day1.png)
 
 
 lapses:
@@ -61,6 +61,7 @@ Then i quickly choose suitable package for the ICs and try layout them in PCB de
 
 
 Day 2 Z80 Badge V2  11/8/2026
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day2.png)
 
 lapse:
 
@@ -91,6 +92,7 @@ this routing method helped reduce the difficulty while u route address and data 
 
 
 Day 3 Z80 Badge V2 14/8/2026
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day3.png)
 
 lapse:
 
@@ -119,6 +121,7 @@ Then I Finished the Readme and lets upload to gadget-market-ship!
 
 
 Day4 Z80 Badge V2 15/8/2026
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day4.png)
 
 lapse:
 
@@ -133,6 +136,7 @@ Added Silkscreen Ascii Art and also 3 holes on the upper side to support differe
 
 
 Day5 Z80 Badge V2 19/8/2026
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day5.png)
 
 lapse:
 
