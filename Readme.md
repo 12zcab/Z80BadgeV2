@@ -1,148 +1,44 @@
-https://hackatime.hackclub.com/my/projects/z80badgev2
+# Z80 Badge V2
 
+a total redesign of my fallout badge!
 
+submitted to Gadget@HackClub
 
 
 
+### Images
 
+![Front](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Front.png)
 
-Day 1 Z80 Badge V2 10/8/2026
+![Back](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Back.png)
 
+![Design](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Design.png)
 
+![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route_R.png)
 
-lapses:
+![Route](https://github.com/12zcab/Z80BadgeV2/blob/main/IMG/Route_B.png)
 
-Z80 Badge 2.0 10/8/2026 (FU5W78anlhWe)
+### What is this?
 
-1h 14m
+its a small Z80 Computer with 32kByte of EEPROM and 32kByte of SRAM.
+it have a minimum setup with practical IO components like LCD1602 and Buttons
 
+Programming this device require you to burn a custom-OS of it or use Dupont Wire to connect its IO PinHeaders to a EEPROM programmer while pausing the whole device and power off.
 
 
-Day 1 Z80 Badge 2.0 (sk8yRzNYfhxx)
 
-45m
+### How to solder it?
 
+1. Solder EEPROM and SRAM and Chip Select Logics with Reflow or Manual Soldering.
+2. Bent the socket's pins and Solder DIP40 Socket and All Resistors.
+3. Solder switches and all Buttons and the Crystal OSC.
+4. Solder the IO Pin Headers if u want!
+5. Solder the 1602 LCD and Plug in all the ICs.
+6. Solder the Battery Module and Stick it onto the back of Z80 PIO IC if u need it, Otherwise u can just power with Dupont Wires connecting to the Pin Headers
+7. Solder the Battery and Stick it onto the back of Z80 CPU IC if u need it
 
 
-Total: 2hrs
 
+for BOM details please refer to BOM.csv.
 
-
-yay a new proj for gadget@hackclub :D
-
-so yah my plan is to redesign a small badge at low cost base on the experience i gain from previous failure :|
-
-I started to plan for ICs i need and also searched for packages for components and also planned for functions
-
-
-
-im sorry i wrote nothing after this passage in day 1 so the other journals are some descriptions of lapse ihv recorded.
-
-
-
-so i searched for components on Taobao and used SMD version of 62256 and 28C256.
-
-Z80 and Z80 PIO are avail. only in DIP package so yah i dont wanna do plcc nor qfn.
-
-so i searched and found theres a thing called SMDIP method so that we can bent dip package's legs and then solder it as a SMD component.
-
-Aimed for lowest cost possible,i used 1602 LCD,Z80 and Z80 PIO also EEPROM and SRAM as my only main components.
-
-I also opened 2.54 PinHeaders for Dupont wires so that i can directly write program on eeprom without using zif sockets for eeprom that is really really large.
-
-Then i quickly choose suitable package for the ICs and try layout them in PCB design but feels not really satisfied for it so i ended today's lapse
-
-
-
-
-
-
-
-
-
-Day 2 Z80 Badge V2  11/8/2026
-
-lapse:
-
-Z80 Badge 2.0 11/8/2026 (txopF1eqykIc)
-
-1h 42m
-
-Total: 1hr 45mins
-
-
-
-So i redesigned the whole layout and finally get something that im satisfied with
-
-
-
-then i started to route the whole pcb.
-
-i started with the EEPROM and SRAM part cuz data bus and address bus are the most annoying stuff for this pcb design.
-
-then i routed all the data bus and address bus into a single bus and used a erm Vertical-Horizontal-Dual-Layer routing (idk what thats called) so like basically u mainly use 1 layer of pcb to do 1 direction of routing.
-
-this routing method helped reduce the difficulty while u route address and data bus that its order is not the same.
-
-
-
-
-
-
-
-Day 3 Z80 Badge V2 14/8/2026
-
-lapse:
-
-Day 3 14/8/2026 Z80BadgeV2 (lA8LdgRuLn9C)
-
-Total: 1hr 30mins
-
-
-
-yay its almost finished!
-
-i rounded the corner of the PCB and then rerun the drc test and organized the lapses and write this journel lol.
-
-
-
-erm yah cuz this pcb is almost full of components i dont really wanna put silkart on it but i added some text on it with my fav. font (IMPACTTTTT)
-
-
-
-so the next step is to make a proper BOM.csv and estimate the cost needed to make 5 of it.
-
-Then I Finished the Readme and lets upload to gadget-market-ship!
-
-(but i hope i can make 10 of it if i can :|)
-
-
-
-Day4 Z80 Badge V2 15/8/2026
-
-lapse:
-
-Day 4 Z80 Badge V2 (70dFCbkBK82y)
-
-1h 3m
-
-Total: 1hr
-
-Added Silkscreen Ascii Art and also 3 holes on the upper side to support different lanyards :D
-
-
-
-Day5 Z80 Badge V2 19/8/2026
-
-lapse:GROUND POURRINNGNGGG (Day5 Z80badgeV2 (Tuy3TwwTRu\_g)
-
-Total: 1hr 30min
-
-so today im gonna thicken the power routings.
-
-and also add ground pour, and smaller the hole for lanyard
-
-
-
-erm so yah this is da first time i do ground pour design and drc now hv no error popup so i assume its already a usable design...? XD
-
+Feel free to open a Issue on GitHub or DM HackClub Slack @12zcab.
