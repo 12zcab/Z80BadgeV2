@@ -1,10 +1,11 @@
 # Z80 Badge V2
 
-a total redesign of my fallout badge!
+## a total redesign of my fallout badge!
 
-submitted to Gadget@HackClub
+## submitted to Gadget@HackClub
 
 
+# HUGE THXXXX to Cyao and Acon and mpk for suggestions!!!!
 
 ### Images
 
@@ -29,7 +30,7 @@ Programming this device require you to burn a custom-OS of it or use Dupont Wire
 
 ### How to solder it?
 
-1. Solder EEPROM and SRAM and Chip Select Logics with Reflow or Manual Soldering.
+1. Solder EEPROM and SRAM and Chip Select Logics also the 104 capacitors with Reflow or Manual Soldering.
 2. Bent the socket's pins and Solder DIP40 Socket and All Resistors.
 3. Solder switches and all Buttons and the Crystal OSC.
 4. Solder the IO Pin Headers if u want!
@@ -42,3 +43,4 @@ Programming this device require you to burn a custom-OS of it or use Dupont Wire
 for BOM details please refer to BOM.csv.
 
 Feel free to open a Issue on GitHub or DM HackClub Slack @12zcab.
+
