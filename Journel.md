@@ -311,7 +311,7 @@ erm so yah this is da first time i do ground pour design and drc now hv no error
 
 
 Day6 Z80 Badge V2 22/8/2026
-
+![journalpic](https://github.com/12zcab/Z80BadgeV2/blob/main/Journel%20IMG/Day6.png)
 lapse:Day6 Z80BadgeV2 (fp8f03s_dZGP)
 Total:1h 28m
 
